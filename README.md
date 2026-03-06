@@ -1,4 +1,7 @@
-MotionQuill 🎨
+Отличная программа! Вот готовый файл `README.md` для твоего проекта MotionQuill:
+
+```markdown
+# MotionQuill 🎨
 
 **Pixel Animation Studio** — программа для создания покадровой пиксельной анимации с удобным интерфейсом и набором инструментов для рисования.
 
@@ -47,6 +50,7 @@ MotionQuill 🎨
 ### Запуск
 1. Скачай файл `stop_motion.py`
 2. Создай папку `resources` со структурой:
+   ```
    resources/
    ├── icon/
    │   └── icon.png          # Иконка программы
@@ -134,6 +138,7 @@ STUDIO N (2026)
 
 ## Структура папок для полного проекта:
 
+```
 MotionQuill/
 ├── stop_motion.py          # Главный файл программы
 ├── LICENSE                  # MIT лицензия
@@ -146,3 +151,4 @@ MotionQuill/
         ├── eraser.png      # Иконка ластика
         ├── filling.png     # Иконка заливки
         └── pipette.png     # Иконка пипетки
+```
